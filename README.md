@@ -24,3 +24,8 @@ To run this application, ensure that you have the following installed:
 
    ```bash
    git clone https://github.com/SSameer20/Student-Management-System-using-.NET-Window-Forms.git
+   ```
+
+   ```bash
+   https://github.com/SSameer20/Student-Management-System-using-.NET-Window-Forms.git
+   ```
