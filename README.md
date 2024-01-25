@@ -23,4 +23,4 @@ To run this application, ensure that you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/student-management-system.git
+   git clone https://github.com/SSameer20/Student-Management-System-using-.NET-Window-Forms.git
